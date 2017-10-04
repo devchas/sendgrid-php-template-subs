@@ -1,3 +1,7 @@
+### An example of how to leverage transactional templates and substitutions using SendGrid's PHP library
+
+In email.php, create the customers array, insert sender/template info, and then...
+
 Build the image
 ```
 docker build -t TAG_NAME .
